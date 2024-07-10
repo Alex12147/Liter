@@ -12,7 +12,7 @@
 	<artifactId>Liter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Liter</name>
-	<description>Biblioteca de libros</description>
+	<description>Biblioteca de libro</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -50,6 +50,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.17.1</version>
 		</dependency>
 	</dependencies>
 
