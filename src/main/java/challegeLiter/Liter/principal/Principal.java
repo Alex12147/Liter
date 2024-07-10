@@ -37,6 +37,7 @@ public class Principal {
                 4.- Listar autores vivos en un determinado año
                 5.- Listar libros por Idioma
                 
+                0.- Salir
                 """);
             try {
                 count = teclado.nextInt();
