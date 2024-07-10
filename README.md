@@ -29,17 +29,17 @@ La aplicación que estamos desarrollando se centra en aprovechar la API Gutendex
 - `Listar Autores Registrados`: Permite filtrar y mostrar libros según el idioma en el que están escritos. Útil para usuarios multilingües o para estudios comparativos entre diferentes culturas literarias.
 
 #### Menu Principal
-![Menu principal](img_1.png)
+![Menu principal](/src/main/java/challegeLiter/Liter/images/img_1.png)
 ##### Buscar libro por titulo
-![Buscar libro por titulo](img_2.png)
+![Buscar libro por titulo](/src/main/java/challegeLiter/Liter/images/img_2.png)
 ##### Listar libros registrados
-![Listar libros registrados](img_3.png)
+![Listar libros registrados](/src/main/java/challegeLiter/Liter/images/img_3.png)
 ##### Listar autores registrados
-![Listar autores registrados](img_4.png)
+![Listar autores registrados](/src/main/java/challegeLiter/Liter/images/img_4.png)
 ##### Listar autores vivos en un determinado año
-![Listar autores vivos en un determinado año](img_5.png)
+![Listar autores vivos en un determinado año](/src/main/java/challegeLiter/Liter/images/img_5.png)
 ##### Listar autores vivos en un determinado año
-![Listar autores vivos en un determinado año](img_6.png)
+![Listar autores vivos en un determinado año](/src/main/java/challegeLiter/Liter/images/img_6.png)
 
 
 
